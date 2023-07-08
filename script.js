@@ -46,27 +46,27 @@ servicesgrid.innerHTML = servicesLine;
 const testimonials = [{
   name:"John Doe",
   quote:"I am impressed with your team's work on our website redesign project!",
-  imageFileName: "./images/s1.png"
+  imageFileName: "./images/t1.jpg"
 },
 {
   name:"John Doe",
   quote:"I am impressed with your team's work on our website redesign project!",
-  imageFileName: "./images/s1.png"
+  imageFileName: "./images/t1.jpg"
 },
 {
   name:"John Doe",
   quote:"I am impressed with your team's work on our website redesign project!",
-  imageFileName: "./images/s1.png"
+  imageFileName: "./images/t1.jpg"
 },
 {
   name:"John Doe",
   quote:"I am impressed with your team's work on our website redesign project!",
-  imageFileName: "./images/s1.png"
+  imageFileName: "./images/t1.jpg"
 },
 {
   name:"John Doe",
   quote:"I am impressed with your team's work on our website redesign project!",
-  imageFileName: "./images/s1.png"
+  imageFileName: "./images/t1.jpg"
 }];
 
 let testimonialsLine='';
