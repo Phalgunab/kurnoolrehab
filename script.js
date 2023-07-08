@@ -1,27 +1,27 @@
 const services = [{
   header: 'Muscles',
   text:'muscle tissue that is used to contract and relax the body',
-  imageFileName:'./images/s1.png'
+  imageFileName:'./images/r1.jpg'
 },
 {
   header: 'Muscles',
   text:'muscle tissue that is used to contract and relax the body',
-  imageFileName:'./images/s2.png'
+  imageFileName:'./images/r2.jpg'
 },
 {
   header: 'Muscles',
   text:'muscle tissue that is used to contract and relax the body',
-  imageFileName:'./images/s3.png'
+  imageFileName:'./images/r3.jpg'
 },
 {
   header: 'Muscles',
   text:'muscle tissue that is used to contract and relax the body',
-  imageFileName:'./images/s1.png'
+  imageFileName:'./images/r4.jpg'
 },
 {
   header: 'Muscles',
   text:'muscle tissue that is used to contract and relax the body',
-  imageFileName:'./images/s3.png'
+  imageFileName:'./images/r5.jpg'
 }];
 
 let servicesLine='';
